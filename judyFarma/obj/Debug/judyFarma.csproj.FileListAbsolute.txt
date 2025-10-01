@@ -1,0 +1,17 @@
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\bin\Debug\judyFarma.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\bin\Debug\judyFarma.exe
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\bin\Debug\judyFarma.pdb
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.exe
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.pdb
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.Splash.resources
+c:\users\dell\documents\visual studio 2015\Projects\judyFarma\judyFarma\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.Dashboard.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.LoginFunc.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.SignUpFunc.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.AddProduct.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.Eliminar.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.Estoque.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\judyFarma\judyFarma\obj\Debug\judyFarma.csprojResolveAssemblyReference.cache
